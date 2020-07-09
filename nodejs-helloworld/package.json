@@ -4,8 +4,16 @@
   "description": "Hello World!",
   "main": "app.js",
   "author": "Red Hat Training",
-  "license": "ASL",
+"scripts": {
+"start": "node app.js"
+}  
+"license": "ASL",
   "dependencies": {
     "express": "~4.14.2"
   }
 }
+"scripts""s:c r{i
+p"tsst"a:r t{"
+:" s"tnaordte" :a p"pn.ojdse" 
+a}p,p.js"
+},
